@@ -6,12 +6,12 @@ ho sy tan
 '''
 
 a= 'Ho:  Ho   Ten: Sy Tan'
-print(a)
+print("a = ",a)
 #in nhieu dong dung 1 lenh print
 #cach 1 dung \n
 b= 'Ho: Ho\nTen: Sy Tan'
-print(b)
+print("\nb = ",b)
 #cach 2 dung 3 dau nhay
 c= '''Ho: Ho
 Ten: Sy Tan'''
-print(c)
+print("\nc = ",c)

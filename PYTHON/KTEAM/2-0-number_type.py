@@ -1,4 +1,4 @@
-'''#kieu decimal lay do chinh xac sau dau thap phan nhieu hon
+#kieu decimal lay do chinh xac sau dau thap phan nhieu hon
 from decimal import*
 getcontext().prec = 18
 
@@ -27,7 +27,7 @@ print('chia lay nguyen 10//3= ',e//f)
 
 print('chia lay du 10%3= ',e%f)
 
-print('luy thua 10**3= ',e**f)'''
+print('luy thua 10**3= ',e**f)
 
 a=3
 b=(a:=a+2)+3
