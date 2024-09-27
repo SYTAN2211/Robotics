@@ -16,6 +16,9 @@ print("d = ",d)
 #dung format de can le
 e = '{:-^50}'.format('Ho Sy Tan') #can le trai:<, can le phai:>
 print('e = ',e)
-
+f = '{:->50}'.format('Viet Nam') #can le trai:<, can le phai:>
+print('f = ',f)
+g = '{:-<50}'.format('Viet Nam') #can le trai:<, can le phai:>
+print('g = ',g)
 
 print("\n")
